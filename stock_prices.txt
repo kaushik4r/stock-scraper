@@ -1,0 +1,501 @@
+Stock price of Agilent Technologies Inc.(A) is 47.36
+Stock price of American Airlines Group Inc.(AAL) is 47.54
+Stock price of Advance Auto Parts Inc.(AAP) is 168.36
+Stock price of Apple Inc.(AAPL) is 119.98
+Stock price of AbbVie Inc.(ABBV) is 60.58
+Stock price of AmerisourceBergen Corp.(ABC) is 84.41
+Stock price of Abbott Laboratories(ABT) is 40.66
+Stock price of Accenture PLC Cl A(ACN) is 116.48
+Stock price of Adobe Systems Inc.(ADBE) is 114.00
+Stock price of Analog Devices Inc.(ADI) is 73.95
+Stock price of Archer Daniels Midland Co.(ADM) is 44.66
+Stock price of Automatic Data Processing Inc.(ADP) is 103.24
+Stock price of Alliance Data Systems Corp.(ADS) is 226.30
+Stock price of Autodesk Inc.(ADSK) is 82.00
+Stock price of Ameren Corp.(AEE) is 52.09
+Stock price of American Electric Power Co. Inc.(AEP) is 62.83
+Stock price of AES Corp.(AES) is 11.38
+Stock price of Aetna Inc.(AET) is 117.54
+Stock price of AFLAC Inc.(AFL) is 69.82
+Stock price of Allergan PLC(AGN) is 210.25
+Stock price of Allergan PLC(AGN) is 210.25
+Stock price of American International Group Inc.(AIG) is 65.50
+Stock price of Apartment Investment & Management Co.(AIV) is 45.30
+Stock price of Assurant Inc.(AIZ) is 96.78
+Stock price of Arthur J. Gallagher & Co.(AJG) is 53.23
+Stock price of Akamai Technologies Inc.(AKAM) is 67.74
+Stock price of Albemarle Corp.(ALB) is 94.88
+Stock price of Alaska Air Group Inc.(ALK) is 92.85
+Stock price of Allstate Corp.(ALL) is 74.49
+Stock price of Allegion PLC(ALLE) is 66.40
+Stock price of Alexion Pharmaceuticals Inc.(ALXN) is 130.88
+Stock price of Applied Materials Inc.(AMAT) is 34.15
+Stock price of Ametek Inc.(AME) is 51.20
+Stock price of Affiliated Managers Group Inc.(AMG) is 144.75
+Stock price of Amgen Inc.(AMGN) is 151.80
+Stock price of Ameriprise Financial Inc.(AMP) is 114.31
+Stock price of American Tower REIT(AMT) is 104.58
+Stock price of Amazon.com Inc.(AMZN) is 822.90
+Stock price of AutoNation Inc.(AN) is 53.04
+Stock price of Anthem Inc.(ANTM) is 150.21
+Stock price of Aon PLC(AON) is 112.27
+Stock price of Apache Corp.(APA) is 60.76
+Stock price of Anadarko Petroleum Corp.(APC) is 71.18
+Stock price of Air Products & Chemicals Inc.(APD) is 147.08
+Stock price of Amphenol Corp. Cl A(APH) is 68.75
+Stock price of Arconic Inc.(ARNC) is 22.40
+Stock price of Activision Blizzard Inc.(ATVI) is 38.80
+Stock price of Avalonbay Communities Inc.(AVB) is 175.56
+Stock price of Broadcom Ltd.(AVGO) is 198.39
+Stock price of Avery Dennison Corp.(AVY) is 73.84
+Stock price of American Water Works Co.(AWK) is 71.90
+Stock price of American Express Co.(AXP) is 77.47
+Stock price of Acuity Brands Inc.(AYI) is 208.98
+Stock price of AutoZone Inc.(AZO) is 738.33
+Stock price of Boeing Co.(BA) is 160.96
+Stock price of Bank of America Corp.(BAC) is 23.00
+Stock price of Baxter International Inc.(BAX) is 45.85
+Stock price of Bed Bath & Beyond Inc.(BBBY) is 40.21
+Stock price of BB&T Corp.(BBT) is 45.96
+Stock price of Best Buy Co. Inc.(BBY) is 44.17
+Stock price of C.R. Bard Inc.(BCR) is 231.01
+Stock price of Becton Dickinson & Co.(BDX) is 170.36
+Stock price of Franklin Resources Inc.(BEN) is 41.16
+Stock price of Baker Hughes Inc.(BHI) is 62.66
+Stock price of Biogen Inc.(BIIB) is 273.82
+Stock price of Bank of New York Mellon Corp.(BK) is 44.62
+Stock price of BlackRock Inc.(BLK) is 381.38
+Stock price of Ball Corp.(BLL) is 76.50
+Stock price of Bristol-Myers Squibb Co.(BMY) is 49.05
+Stock price of Boston Scientific Corp.(BSX) is 23.54
+Stock price of BorgWarner Inc.(BWA) is 40.43
+Stock price of Boston Properties Inc.(BXP) is 132.21
+Stock price of Citigroup Inc.(C) is 56.81
+Stock price of CA Inc.(CA) is 32.10
+Stock price of Conagra Brands Inc.(CAG) is 39.20
+Stock price of Cardinal Health Inc.(CAH) is 74.64
+Stock price of Caterpillar Inc.(CAT) is 96.48
+Stock price of Chubb Ltd.(CB) is 131.97
+Stock price of CBRE Group Inc. Cl A(CBG) is 30.32
+Stock price of CBS Corp. Cl B(CBS) is 62.96
+Stock price of Crown Castle International Corp.(CCI) is 87.66
+Stock price of Carnival Corp.(CCL) is 54.53
+Stock price of Celgene Corp.(CELG) is 112.45
+Stock price of Cerner Corp.(CERN) is 51.22
+Stock price of CF Industries Holdings Inc.(CF) is 36.65
+Stock price of Citizens Financial Group Inc.(CFG) is 36.31
+Stock price of Church & Dwight Co.(CHD) is 46.10
+Stock price of Chesapeake Energy Corp.(CHK) is 7.03
+Stock price of C.H. Robinson Worldwide Inc.(CHRW) is 74.66
+Stock price of Charter Communications Inc. Cl A(CHTR) is 307.00
+Stock price of Cigna Corp.(CI) is 146.39
+Stock price of Cincinnati Financial Corp.(CINF) is 70.09
+Stock price of Colgate-Palmolive Co.(CL) is 68.25
+Stock price of Clorox Co.(CLX) is 121.67
+Stock price of Comerica Inc.(CMA) is 67.66
+Stock price of Comcast Corp. Cl A(CMCSA) is 73.90
+Stock price of CME Group Inc. Cl A(CME) is 117.44
+Stock price of Chipotle Mexican Grill Inc.(CMG) is 418.51
+Stock price of Cummins Inc.(CMI) is 145.11
+Stock price of CMS Energy Corp.(CMS) is 41.97
+Stock price of Centene Corp.(CNC) is 62.99
+Stock price of CenterPoint Energy Inc.(CNP) is 25.66
+Stock price of Capital One Financial Corp.(COF) is 87.95
+Stock price of Cabot Oil & Gas Corp.(COG) is 21.93
+Stock price of Coach Inc.(COH) is 36.88
+Stock price of Rockwell Collins Inc.(COL) is 90.90
+Stock price of Cooper Cos.(COO) is 180.14
+Stock price of ConocoPhillips(COP) is 50.24
+Stock price of Costco Wholesale Corp.(COST) is 163.99
+Stock price of Coty Inc. Cl A(COTY) is 19.00
+Stock price of Campbell Soup Co.(CPB) is 63.30
+Stock price of Salesforce.com Inc.(CRM) is 77.21
+Stock price of Cisco Systems Inc.(CSCO) is 30.60
+Stock price of CSRA Inc.(CSRA) is 32.22
+Stock price of CSX Corp.(CSX) is 46.75
+Stock price of Cintas Corp.(CTAS) is 115.51
+Stock price of CenturyLink Inc.(CTL) is 25.53
+Stock price of Cognizant Technology Solutions Corp.(CTSH) is 56.61
+Stock price of Citrix Systems Inc.(CTXS) is 94.37
+Stock price of CVS Health Corp.(CVS) is 81.78
+Stock price of Chevron Corp.(CVX) is 116.34
+Stock price of Concho Resources Inc.(CXO) is 143.00
+Stock price of Dominion Resources Inc. (Virginia)(D) is 75.45
+Stock price of Delta Air Lines Inc.(DAL) is 49.45
+Stock price of E.I. DuPont de Nemours & Co.(DD) is 76.10
+Stock price of Deere & Co.(DE) is 107.79
+Stock price of Discover Financial Services(DFS) is 69.28
+Stock price of Dollar General Corp.(DG) is 70.89
+Stock price of Quest Diagnostics Inc.(DGX) is 91.30
+Stock price of D.R. Horton Inc.(DHI) is 30.80
+Stock price of Danaher Corp.(DHR) is 80.03
+Stock price of Walt Disney Co.(DIS) is 107.90
+Stock price of Discovery Communications Inc. Series A(DISCA) is 28.49
+Stock price of Discovery Communications Inc. Series C(DISCK) is 27.80
+Stock price of Delphi Automotive PLC(DLPH) is 71.44
+Stock price of Digital Realty Trust Inc.(DLR) is 107.28
+Stock price of Dollar Tree Inc.(DLTR) is 76.88
+Stock price of Dun & Bradstreet Corp.(DNB) is 122.99
+Stock price of Dover Corp.(DOV) is 80.51
+Stock price of Dow Chemical Co.(DOW) is 59.63
+Stock price of Dr Pepper Snapple Group Inc.(DPS) is 91.45
+Stock price of Darden Restaurants Inc.(DRI) is 73.73
+Stock price of DTE Energy Co.(DTE) is 97.96
+Stock price of Duke Energy Corp.(DUK) is 77.18
+Stock price of DaVita Inc.(DVA) is 63.57
+Stock price of Devon Energy Corp.(DVN) is 46.56
+Stock price of Electronic Arts Inc.(EA) is 80.51
+Stock price of eBay Inc.(EBAY) is 30.12
+Stock price of Ecolab Inc.(ECL) is 121.62
+Stock price of Consolidated Edison Inc.(ED) is 72.00
+Stock price of Equifax Inc.(EFX) is 118.81
+Stock price of Edison International(EIX) is 72.00
+Stock price of Estee Lauder Cos. Cl A(EL) is 80.79
+Stock price of Eastman Chemical Co.(EMN) is 78.26
+Stock price of Emerson Electric Co.(EMR) is 59.08
+Stock price of Endo International PLC(ENDP) is 11.88
+Stock price of EOG Resources Inc.(EOG) is 103.61
+Stock price of Equinix Inc.(EQIX) is 389.66
+Stock price of Equity Residential(EQR) is 62.30
+Stock price of EQT Corp.(EQT) is 64.07
+Stock price of Eversource Energy(ES) is 54.59
+Stock price of Express Scripts Holding Co.(ESRX) is 71.40
+Stock price of Essex Property Trust Inc.(ESS) is 226.71
+Stock price of E*TRADE Financial Corp.(ETFC) is 36.72
+Stock price of Eaton Corp. PLC(ETN) is 69.21
+Stock price of Entergy Corp.(ETR) is 70.46
+Stock price of Envision Healthcare Corp.(EVHC) is 68.16
+Stock price of Edwards Lifesciences Corp.(EW) is 94.30
+Stock price of Exelon Corp.(EXC) is 35.00
+Stock price of Expeditors International of Washington Inc.(EXPD) is 52.50
+Stock price of Expedia Inc.(EXPE) is 120.69
+Stock price of Extra Space Storage Inc.(EXR) is 75.16
+Stock price of Ford Motor Co.(F) is 12.60
+Stock price of Fastenal Co.(FAST) is 50.81
+Stock price of Facebook Inc. Cl A(FB) is 129.48
+Stock price of Fortune Brands Home & Security Inc.(FBHS) is 56.79
+Stock price of Freeport-McMoRan Inc.(FCX) is 17.34
+Stock price of Freeport-McMoRan Inc.(FCX) is 17.34
+Stock price of FedEx Corp.(FDX) is 191.60
+Stock price of FirstEnergy Corp.(FE) is 29.60
+Stock price of F5 Networks Inc.(FFIV) is 146.23
+Stock price of Fidelity National Information Services Inc.(FIS) is 80.03
+Stock price of Fiserv Inc.(FISV) is 108.52
+Stock price of Fifth Third Bancorp(FITB) is 26.60
+Stock price of Foot Locker Inc.(FL) is 68.90
+Stock price of Flir Systems Inc.(FLIR) is 34.70
+Stock price of Fluor Corp.(FLR) is 55.00
+Stock price of Flowserve Corp.(FLS) is 50.96
+Stock price of FMC Corp.(FMC) is 61.85
+Stock price of 21st Century Fox Inc. Cl B(FOX) is 29.79
+Stock price of 21st Century Fox Inc. Cl A(FOXA) is 30.28
+Stock price of Federal Realty Investment Trust(FRT) is 140.88
+Stock price of First Solar Inc.(FSLR) is 32.61
+Stock price of TechnipFMC PLC(FTI) is 34.16
+Stock price of Frontier Communications Corp.(FTR) is 3.46
+Stock price of Fortive Corp.(FTV) is 54.70
+Stock price of General Dynamics Corp.(GD) is 177.25
+Stock price of General Electric Co.(GE) is 30.01
+Stock price of General Growth Properties Inc.(GGP) is 25.25
+Stock price of Gilead Sciences Inc.(GILD) is 70.25
+Stock price of General Mills Inc.(GIS) is 62.67
+Stock price of Corning Inc.(GLW) is 26.18
+Stock price of General Motors Co.(GM) is 37.05
+Stock price of Alphabet Inc. Cl C(GOOG) is 825.00
+Stock price of Alphabet Inc. Cl A(GOOGL) is 850.72
+Stock price of Genuine Parts Co.(GPC) is 96.92
+Stock price of Global Payments Inc.(GPN) is 79.04
+Stock price of Gap Inc.(GPS) is 24.16
+Stock price of Garmin Ltd.(GRMN) is 49.08
+Stock price of Goldman Sachs Group Inc.(GS) is 233.80
+Stock price of Goodyear Tire & Rubber Co.(GT) is 31.06
+Stock price of W.W. Grainger Inc.(GWW) is 248.84
+Stock price of Halliburton Co.(HAL) is 56.42
+Stock price of Harman International Industries Inc.(HAR) is 110.88
+Stock price of Hasbro Inc.(HAS) is 85.45
+Stock price of Huntington Bancshares Inc.(HBAN) is 13.25
+Stock price of Hanesbrands Inc.(HBI) is 22.63
+Stock price of HCA Holdings Inc.(HCA) is 80.22
+Stock price of Welltower Inc.(HCN) is 67.31
+Stock price of HCP Inc.(HCP) is 30.24
+Stock price of Home Depot Inc.(HD) is 138.00
+Stock price of Hess Corp.(HES) is 57.64
+Stock price of Hartford Financial Services Group Inc.(HIG) is 47.90
+Stock price of Harley-Davidson Inc.(HOG) is 59.60
+Stock price of Hologic Inc.(HOLX) is 39.38
+Stock price of Honeywell International Inc.(HON) is 118.30
+Stock price of Helmerich & Payne Inc.(HP) is 80.10
+Stock price of Hewlett Packard Enterprise Co.(HPE) is 23.00
+Stock price of HP Inc.(HPQ) is 15.16
+Stock price of H&R Block Inc.(HRB) is 23.13
+Stock price of Hormel Foods Corp.(HRL) is 36.54
+Stock price of Harris Corp.(HRS) is 102.08
+Stock price of Henry Schein Inc.(HSIC) is 156.92
+Stock price of Host Hotels & Resorts Inc.(HST) is 18.29
+Stock price of Hershey Co.(HSY) is 106.52
+Stock price of Humana Inc.(HUM) is 199.96
+Stock price of International Business Machines Corp.(IBM) is 176.00
+Stock price of Intercontinental Exchange Inc.(ICE) is 57.48
+Stock price of IDEXX Laboratories Inc.(IDXX) is 118.51
+Stock price of International Flavors & Fragrances Inc.(IFF) is 119.54
+Stock price of Illumina Inc.(ILMN) is 160.48
+Stock price of Intel Corp.(INTC) is 37.78
+Stock price of Intuit Inc.(INTU) is 118.75
+Stock price of International Paper Co.(IP) is 55.90
+Stock price of Interpublic Group of Cos.(IPG) is 23.36
+Stock price of Ingersoll-Rand PLC(IR) is 79.59
+Stock price of Iron Mountain Inc.(IRM) is 35.02
+Stock price of Intuitive Surgical Inc.(ISRG) is 674.99
+Stock price of Illinois Tool Works Inc.(ITW) is 127.06
+Stock price of INVESCO Ltd.(IVZ) is 30.84
+Stock price of J.B. Hunt Transport Services Inc.(JBHT) is 96.48
+Stock price of Johnson Controls International PLC(JCI) is 43.94
+Stock price of Jacobs Engineering Group Inc.(JEC) is 60.12
+Stock price of Johnson & Johnson(JNJ) is 112.00
+Stock price of Juniper Networks Inc.(JNPR) is 27.87
+Stock price of JPMorgan Chase & Co.(JPM) is 84.92
+Stock price of Nordstrom Inc.(JWN) is 45.02
+Stock price of Kellogg Co.(K) is 72.61
+Stock price of KeyCorp(KEY) is 18.05
+Stock price of Kraft Heinz Co.(KHC) is 88.69
+Stock price of Kimco Realty Corp.(KIM) is 25.40
+Stock price of KLA-Tencor Corp.(KLAC) is 82.80
+Stock price of Kimberly-Clark Corp.(KMB) is 121.79
+Stock price of Kinder Morgan Inc.(KMI) is 22.53
+Stock price of CarMax Inc.(KMX) is 68.25
+Stock price of Coca-Cola Co.(KO) is 41.90
+Stock price of Michael Kors Holdings Ltd.(KORS) is 43.36
+Stock price of Kroger Co.(KR) is 33.39
+Stock price of Kohl's Corp.(KSS) is 40.35
+Stock price of Kansas City Southern(KSU) is 86.35
+Stock price of Loews Corp.(L) is 46.72
+Stock price of L Brands Inc.(LB) is 61.54
+Stock price of Leggett & Platt Inc.(LEG) is 48.50
+Stock price of Lennar Corp. Cl A(LEN) is 46.40
+Stock price of Laboratory Corp. of America Holdings(LH) is 133.03
+Stock price of LKQ Corp.(LKQ) is 31.48
+Stock price of L3 Technologies Inc.(LLL) is 149.92
+Stock price of Linear Technology Corp.(LLTC) is 62.66
+Stock price of Eli Lilly & Co.(LLY) is 74.85
+Stock price of Lockheed Martin Corp.(LMT) is 252.70
+Stock price of Lincoln National Corp.(LNC) is 67.83
+Stock price of Alliant Energy Corp.(LNT) is 36.96
+Stock price of Lowe's Cos.(LOW) is 74.00
+Stock price of Lam Research Corp.(LRCX) is 114.64
+Stock price of Leucadia National Corp.(LUK) is 23.39
+Stock price of Southwest Airlines Co.(LUV) is 49.52
+Stock price of Level 3 Communications Inc.(LVLT) is 59.00
+Stock price of LyondellBasell Industries N.V. Cl A(LYB) is 95.30
+Stock price of Macy's Inc.(M) is 29.85
+Stock price of Mastercard Inc.(MA) is 110.02
+Stock price of Mid-America Apartment Communities Inc.(MAA) is 96.67
+Stock price of Macerich Co.(MAC) is 70.11
+Stock price of Marriott International Inc.(MAR) is 84.51
+Stock price of Masco Corp.(MAS) is 32.93
+Stock price of Mattel Inc.(MAT) is 31.19
+Stock price of McDonald's Corp.(MCD) is 120.85
+Stock price of Microchip Technology Inc.(MCHP) is 67.90
+Stock price of McKesson Corp.(MCK) is 147.00
+Stock price of Moody's Corp.(MCO) is 102.15
+Stock price of Mondelez International Inc. Cl A(MDLZ) is 44.93
+Stock price of Medtronic PLC(MDT) is 73.75
+Stock price of MetLife Inc.(MET) is 54.91
+Stock price of Mohawk Industries Inc.(MHK) is 214.92
+Stock price of Mead Johnson Nutrition Co.(MJN) is 74.95
+Stock price of McCormick & Co. Inc.(MKC) is 94.75
+Stock price of Martin Marietta Materials Inc.(MLM) is 234.45
+Stock price of Marsh & McLennan Cos.(MMC) is 68.33
+Stock price of 3M Co.(MMM) is 175.97
+Stock price of Mallinckrodt PLC(MNK) is 46.23
+Stock price of Monster Beverage Corp.(MNST) is 43.06
+Stock price of Altria Group Inc.(MO) is 70.69
+Stock price of Monsanto Co.(MON) is 108.84
+Stock price of Mosaic Co.(MOS) is 33.65
+Stock price of Marathon Petroleum Corp.(MPC) is 50.22
+Stock price of Merck & Co. Inc.(MRK) is 60.91
+Stock price of Marathon Oil Corp.(MRO) is 17.68
+Stock price of Morgan Stanley(MS) is 42.73
+Stock price of Microsoft Corp.(MSFT) is 63.75
+Stock price of Motorola Solutions Inc.(MSI) is 84.42
+Stock price of M&T Bank Corp.(MTB) is 159.51
+Stock price of Mettler-Toledo International Inc.(MTD) is 416.56
+Stock price of Micron Technology Inc.(MU) is 23.19
+Stock price of Murphy Oil Corp.(MUR) is 31.95
+Stock price of Mylan N.V.(MYL) is 35.87
+Stock price of Navient Corp.(NAVI) is 16.21
+Stock price of Noble Energy Inc.(NBL) is 39.97
+Stock price of Nasdaq Inc.(NDAQ) is 67.95
+Stock price of NextEra Energy Inc.(NEE) is 118.81
+Stock price of Newmont Mining Corp.(NEM) is 36.06
+Stock price of Netflix Inc.(NFLX) is 140.43
+Stock price of Newfield Exploration Co.(NFX) is 42.42
+Stock price of NiSource Inc.(NI) is 22.25
+Stock price of Nike Inc. Cl B(NKE) is 53.39
+Stock price of Nielsen Holdings PLC(NLSN) is 40.74
+Stock price of Northrop Grumman Corp.(NOC) is 232.59
+Stock price of National Oilwell Varco Inc.(NOV) is 38.99
+Stock price of NRG Energy Inc.(NRG) is 16.39
+Stock price of Norfolk Southern Corp.(NSC) is 117.00
+Stock price of NetApp Inc.(NTAP) is 38.01
+Stock price of Northern Trust Corp.(NTRS) is 83.49
+Stock price of Nucor Corp.(NUE) is 60.94
+Stock price of NVIDIA Corp.(NVDA) is 107.95
+Stock price of Newell Brands Inc.(NWL) is 47.18
+Stock price of News Corp Cl B(NWS) is 12.60
+Stock price of News Corp Cl A(NWSA) is 12.11
+Stock price of Realty Income Corp.(O) is 59.78
+Stock price of ONEOK Inc.(OKE) is 56.28
+Stock price of Omnicom Group Inc.(OMC) is 85.88
+Stock price of Oracle Corp.(ORCL) is 40.05
+Stock price of O'Reilly Automotive Inc.(ORLY) is 267.46
+Stock price of Occidental Petroleum Corp.(OXY) is 67.70
+Stock price of Paychex Inc.(PAYX) is 61.87
+Stock price of People's United Financial Inc.(PBCT) is 18.89
+Stock price of Pitney Bowes Inc.(PBI) is 16.05
+Stock price of Paccar Inc.(PCAR) is 66.70
+Stock price of PG&E Corp.(PCG) is 60.93
+Stock price of Priceline Group Inc.(PCLN) is 1,563.00
+Stock price of Patterson Cos. Inc.(PDCO) is 41.17
+Stock price of Public Service Enterprise Group Inc.(PEG) is 43.46
+Stock price of PepsiCo Inc.(PEP) is 104.71
+Stock price of Pfizer Inc.(PFE) is 31.16
+Stock price of Principal Financial Group Inc.(PFG) is 58.58
+Stock price of Procter & Gamble Co.(PG) is 87.85
+Stock price of Progressive Corp.(PGR) is 36.61
+Stock price of Parker Hannifin Corp.(PH) is 145.63
+Stock price of PulteGroup Inc.(PHM) is 20.45
+Stock price of PerkinElmer Inc.(PKI) is 51.59
+Stock price of Prologis Inc.(PLD) is 51.75
+Stock price of Philip Morris International Inc.(PM) is 95.78
+Stock price of PNC Financial Services Group Inc.(PNC) is 118.66
+Stock price of Pentair PLC(PNR) is 60.25
+Stock price of Pinnacle West Capital Corp.(PNW) is 77.53
+Stock price of PPG Industries Inc.(PPG) is 101.80
+Stock price of PPL Corp.(PPL) is 34.63
+Stock price of Perrigo Co. PLC(PRGO) is 72.39
+Stock price of Prudential Financial Inc.(PRU) is 105.69
+Stock price of Public Storage(PSA) is 222.52
+Stock price of Phillips 66(PSX) is 84.14
+Stock price of PVH Corp.(PVH) is 93.26
+Stock price of Quanta Services Inc.(PWR) is 37.90
+Stock price of Praxair Inc.(PX) is 117.69
+Stock price of Pioneer Natural Resources Co.(PXD) is 180.10
+Stock price of PayPal Holdings Inc.(PYPL) is 42.15
+Stock price of Qualcomm Inc.(QCOM) is 55.14
+Stock price of Qorvo Inc.(QRVO) is 62.75
+Stock price of Ryder System Inc.(R) is 76.62
+Stock price of Reynolds American Inc.(RAI) is 59.15
+Stock price of Royal Caribbean Cruises Ltd.(RCL) is 86.14
+Stock price of Regeneron Pharmaceuticals Inc.(REGN) is 346.00
+Stock price of Regions Financial Corp.(RF) is 14.12
+Stock price of Robert Half International Inc.(RHI) is 49.37
+Stock price of Red Hat Inc.(RHT) is 75.43
+Stock price of Transocean Ltd.(RIG) is 14.88
+Stock price of Ralph Lauren Corp. Cl A(RL) is 90.13
+Stock price of Rockwell Automation Corp.(ROK) is 141.90
+Stock price of Roper Technologies Inc.(ROP) is 187.81
+Stock price of Ross Stores Inc.(ROST) is 66.11
+Stock price of Range Resources Corp.(RRC) is 34.07
+Stock price of Republic Services Inc.(RSG) is 57.54
+Stock price of Raytheon Co.(RTN) is 148.05
+Stock price of Starbucks Corp.(SBUX) is 58.45
+Stock price of Scana Corp.(SCG) is 69.73
+Stock price of Charles Schwab Corp.(SCHW) is 41.81
+Stock price of Spectra Energy Corp.(SE) is 42.70
+Stock price of Sealed Air Corp.(SEE) is 49.24
+Stock price of Sherwin-Williams Co.(SHW) is 281.00
+Stock price of Signet Jewelers Ltd.(SIG) is 82.81
+Stock price of J.M. Smucker Co.(SJM) is 134.90
+Stock price of Schlumberger Ltd.(SLB) is 84.50
+Stock price of SL Green Realty Corp.(SLG) is 109.43
+Stock price of Snap-On Inc.(SNA) is 177.38
+Stock price of Scripps Networks Interactive Inc. Cl A(SNI) is 74.70
+Stock price of Southern Co.(SO) is 48.58
+Stock price of Simon Property Group Inc.(SPG) is 184.14
+Stock price of S&P Global Inc.(SPGI) is 116.92
+Stock price of Staples Inc.(SPLS) is 9.27
+Stock price of Stericycle Inc.(SRCL) is 80.90
+Stock price of Sempra Energy(SRE) is 102.67
+Stock price of SunTrust Banks Inc.(STI) is 56.48
+Stock price of State Street Corp.(STT) is 80.74
+Stock price of Seagate Technology PLC(STX) is 41.99
+Stock price of Constellation Brands Inc. Cl A(STZ) is 152.97
+Stock price of Stanley Black & Decker Inc.(SWK) is 122.67
+Stock price of Skyworks Solutions Inc.(SWKS) is 92.51
+Stock price of Southwestern Energy Co.(SWN) is 9.56
+Stock price of Synchrony Financial(SYF) is 36.08
+Stock price of Stryker Corp.(SYK) is 121.45
+Stock price of Symantec Corp.(SYMC) is 27.34
+Stock price of Sysco Corp.(SYY) is 53.51
+Stock price of AT&T Inc.(T) is 41.37
+Stock price of Molson Coors Brewing Co. Cl B(TAP) is 96.88
+Stock price of Teradata Corp.(TDC) is 28.70
+Stock price of TransDigm Group Inc.(TDG) is 225.32
+Stock price of TE Connectivity Ltd.(TEL) is 71.64
+Stock price of TEGNA Inc.(TGNA) is 21.92
+Stock price of Target Corp.(TGT) is 64.27
+Stock price of Tiffany & Co.(TIF) is 79.31
+Stock price of TJX Cos.(TJX) is 74.56
+Stock price of Torchmark Corp.(TMK) is 74.27
+Stock price of Thermo Fisher Scientific Inc.(TMO) is 140.44
+Stock price of TripAdvisor Inc.(TRIP) is 52.13
+Stock price of T. Rowe Price Group Inc.(TROW) is 73.84
+Stock price of Travelers Cos. Inc.(TRV) is 116.84
+Stock price of Tractor Supply Co.(TSCO) is 75.16
+Stock price of Tyson Foods Inc. Cl A(TSN) is 62.41
+Stock price of Tesoro Corp.(TSO) is 82.07
+Stock price of Total System Services Inc.(TSS) is 53.19
+Stock price of Time Warner Inc.(TWX) is 96.35
+Stock price of Texas Instruments Inc.(TXN) is 76.60
+Stock price of Textron Inc.(TXT) is 49.35
+Stock price of Under Armour Inc. Cl C(UA) is 25.15
+Stock price of Under Armour Inc. Cl A(UAA) is 28.58
+Stock price of United Continental Holdings Inc.(UAL) is 73.18
+Stock price of UDR Inc.(UDR) is 35.80
+Stock price of Universal Health Services Inc. Cl B(UHS) is 112.16
+Stock price of Ulta Salon Cosmetics & Fragrance Inc.(ULTA) is 263.75
+Stock price of UnitedHealth Group Inc.(UNH) is 160.42
+Stock price of Unum Group(UNM) is 45.21
+Stock price of Union Pacific Corp.(UNP) is 108.72
+Stock price of United Parcel Service Inc. Cl B(UPS) is 116.05
+Stock price of Urban Outfitters Inc.(URBN) is 26.64
+Stock price of United Rentals Inc.(URI) is 113.70
+Stock price of U.S. Bancorp(USB) is 51.77
+Stock price of United Technologies Corp.(UTX) is 113.24
+Stock price of VISA Inc. Cl A(V) is 83.23
+Stock price of Varian Medical Systems Inc.(VAR) is 90.35
+Stock price of VF Corp.(VFC) is 52.68
+Stock price of Viacom Inc. Cl B(VIAB) is 41.25
+Stock price of Valero Energy Corp.(VLO) is 67.86
+Stock price of Vulcan Materials Co.(VMC) is 135.53
+Stock price of Vornado Realty Trust(VNO) is 107.72
+Stock price of Verisk Analytics Inc.(VRSK) is 82.17
+Stock price of VeriSign Inc.(VRSN) is 80.55
+Stock price of Vertex Pharmaceuticals Inc.(VRTX) is 82.24
+Stock price of Ventas Inc.(VTR) is 62.01
+Stock price of Verizon Communications Inc.(VZ) is 50.18
+Stock price of Waters Corp.(WAT) is 142.50
+Stock price of Walgreens Boots Alliance Inc.(WBA) is 81.23
+Stock price of Western Digital Corp.(WDC) is 80.00
+Stock price of WEC Energy Group Inc.(WEC) is 58.45
+Stock price of Wells Fargo & Co.(WFC) is 54.83
+Stock price of Whole Foods Market Inc.(WFM) is 30.46
+Stock price of Whirlpool Corp.(WHR) is 188.90
+Stock price of Willis Towers Watson PLC(WLTW) is 126.17
+Stock price of Waste Management Inc.(WM) is 69.57
+Stock price of Williams Cos.(WMB) is 28.45
+Stock price of Wal-Mart Stores Inc.(WMT) is 67.50
+Stock price of WestRock Co.(WRK) is 54.05
+Stock price of Western Union Co.(WU) is 20.41
+Stock price of Weyerhaeuser Co.(WY) is 31.02
+Stock price of Wyndham Worldwide Corp.(WYN) is 79.20
+Stock price of Wynn Resorts Ltd.(WYNN) is 94.03
+Stock price of Cimarex Energy Co.(XEC) is 138.50
+Stock price of Xcel Energy Inc.(XEL) is 40.79
+Stock price of XL Group Ltd.(XL) is 37.74
+Stock price of Xilinx Inc.(XLNX) is 59.50
+Stock price of Exxon Mobil Corp.(XOM) is 85.06
+Stock price of Dentsply Sirona Inc.(XRAY) is 56.21
+Stock price of Xerox Corp.(XRX) is 6.94
+Stock price of Xylem Inc.(XYL) is 49.07
+Stock price of Yahoo! Inc.(YHOO) is 43.85
